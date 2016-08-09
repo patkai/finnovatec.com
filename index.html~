@@ -15,21 +15,11 @@
     <![endif]-->
   </head>
   <body>
-  <!-- Google Tag Manager -->
-  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PJCHHT"
-                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-          '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-PJCHHT');</script>
-  <!-- End Google Tag Manager -->
-  
     <div class="wrapper">
       <header>
         <!-- <h1>Finnovatec Ltd</h1>-->
         <img src="http://www.finnovatec.com/images/finnovatec_logo.png" style="max-width: 225px;" />
-        <!--<p>contract web developers</p>-->
+        <p>freelance web developers from Helsinki</p>
         <p class="view"><a href="https://github.com/patkai/finnovatec">View the Project on GitHub <small>patkai/finnovatec</small></a></p>
 <!--        <ul>
           <li><a href="https://github.com/patkai/finnovatec/zipball/master">Download <strong>ZIP File</strong></a></li>
@@ -41,7 +31,7 @@
         <h3>
 <a id="welcome-to-finnovatec" class="anchor" href="#welcome-to-finnovatec" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to Finnovatec!</h3>
 
-<p>We are a couple of software developers doing PHP/Drupal and Ruby on Rails. If you have a suitable project in mind please contact us.</p>
+<p>We are a couple of software developers doing PHP/Drupal and Ruby on Rails. Contact us if you have a project for us.</p>
 
 <h3>
 <p><a id="who-we-are" class="anchor" href="#who-we-are" aria-hidden="true"><span class="octicon octicon-link"></span></a>Who we are</h3>
@@ -65,12 +55,12 @@
 <pre><code>
 Skype: finnovatec
 Phone: +358 44 254 3515
-Email: contact@finnovatec.com
 
 Company registration number: 2231902-0
 EU VAT registration number: FI22319020
 
 Official company name: Oy Finnovatec Ltd
+Mailing address: Radanrakentajantie 4 C 64, 00520 Helsinki, Finland
 </code></pre>
       </section>
     </div>
