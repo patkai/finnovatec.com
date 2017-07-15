@@ -1,61 +1,49 @@
 * {
-    background-color: #f8f8f8;
-    color: #444444;
+    background-color: white;
+    color: #555555;
     font-family: "Comfortaa";
+    text-align: justify;
     /*border: 1px dashed blue;*/
 }
 
 article {
-    background-color: white;
-    text-align: justify;
-    background-color: white;
-    max-width: 800px;
+    max-width: 600px;
     margin: 60px auto 20px auto;
     border: #cccccc 1px solid;
-    padding: 6px;
+    padding: 0 20px;
     border-radius: 2px;
     box-shadow: 0 1px 1px 0 #cccccc;
 }
 
 body {
     background-color: #f8f8f8;
-}
-
-div {
-    padding-top: 10px;
+    margin: -10px;
+    padding: 5px 0 5px 0;
 }
 
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: white;
     box-shadow: 5px 0 0 0 #cccccc;
-}
-
-footer p {
-    margin-left: 30px;
 }
 
 h1 {
     font-size: 30px;
-    padding-left: 15px;
-    color: #444444;
-    background-color: white;
 }
 
 h2 {
     font-size: 24px;
-    padding-left: 15px;
-    color: #444444;
-    background-color: white;
 }
 
 .handwritten {
-    background-color: white;
     font-family: "Caveat";
     font-size: 20pt;
-    text-align: left;
+}
+
+.handwritten_tag {
+    font-family: "Caveat";
+    font-size: 18pt;
 }
 
 header {
@@ -63,11 +51,9 @@ header {
     float: left;
     top: 0;
     left: 0;
-    background: white;
     width: 100%;
     z-index: 100;
     border-bottom: #cccccc 1px solid;
-    background-color: white;
     height: 50px;
     font-size: 50px;
     box-shadow: 0 0 1px 0 #cccccc;
@@ -84,50 +70,39 @@ img.smaller_image {
 }
 
 li {
-    /*padding: 5px 15px 5px 0;*/
-    background-color: white;
-    display: inline;
+    padding: 5px 15px 5px 0;
     margin: 0 10px;
 }
 
-#menu_links {
-    max-width: 800px;
-    float: left;
+#menu {
+    float: right;
 }
 
-#motto {
-    clear: both;
-    background-color: white;
-    padding-left: 15px;
+#menu li {
+    float: left;
+    font-size: 16px;
+    list-style-type: none;
 }
 
 .person {
-    background-color: white;
-    padding-left: 15px;
     float: left;
     clear: both;
 }
 
 .person img {
-    max-width: 300px;
+    max-width: 100px;
     border: blue dotted 1px;
 }
 
 .person p {
     float: left;
-
 }
 
 ul {
-    background-color: white;
-    list-style: none outside none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
+    list-style: square outside none;
 }
 
 #logo {
-    background-color: white;
     height: 50px;
     padding-left: 30px;
 }
@@ -135,27 +110,22 @@ ul {
 nav {
     height: 50px;
     /*border-bottom: #47b1ed 4px solid;*/
-    background-color: white;
     font-size: 14px;
     color: #cccccc;
     float: left;
+    width: 100%
 }
 
 p {
-    background-color: white;
-    color: #333333;
-    text-align: justify;
-    padding: 0 15px 0 15px;
+    /*color: #777777;*/
 }
 
 .person_details {
     float: left;
-    background-color: white;
 }
 
 .person_details p {
     float: left;
-    background-color: white;
     color: #333333;
     padding: 0 15px 0 15px;
 }
@@ -166,20 +136,9 @@ p {
     font-size: 20px;
 }
 
-#SkypeButton_Call_finnovatec_1,
-#SkypeButton_Call_finnovatec_1_paraElement a,
-#SkypeButton_Call_finnovatec_1_paraElement img {
-    background-color: white;
-    max-width: 100px;
-    float: left;
-}
-
-#top ul li a,
 footer ul li a {
     font-size: 14px;
     padding: 6px;
-    background-color: white;
-
 }
 
 .person h2 {
@@ -188,6 +147,7 @@ footer ul li a {
 
 .person img {
     float: left;
+    width: 100px;
 }
 
 .person p {
